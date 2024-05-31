@@ -1,0 +1,7 @@
+{
+    "CHAT_LOG_PATH": "C:\\Users\\gusta\\AppData\\Roaming\\.technic\\modpacks\\eterium-murphy-oficial\\logs\\latest.log",
+    "AUTOHOTKEY_PATH": "C:\\Program Files\\AutoHotkey\\v2\\AutoHotkey64.exe",
+    "SCRIPT_REPAIR_FISH_ROD": "../AutoPesca/autoHotkey/RepairFishRod.ahk",
+    "SCRIPT_SELL_FISH_FULL": "../AutoPesca/autoHotkey/SellFishFull.ahk",
+    "SCRIPT_SELL_FISH": "../AutoPesca/autoHotkey/SellFish.ahk"
+}
